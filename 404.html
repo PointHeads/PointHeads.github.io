@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="PointHeads" />
 <script type="application/ld+json">
-{"url":"http://pointheads.com/404.html","@type":"WebPage","author":{"@type":"Person","name":"Isonify, LLC"},"headline":"PointHeads","description":"The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.","@context":"https://schema.org"}</script>
+{"url":"http://pointheads.com/404.html","@type":"WebPage","headline":"PointHeads","author":{"@type":"Person","name":"Isonify, LLC"},"description":"The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://pointheads.com/feed.xml" title="PointHeads" /></head>
 <body><header class="site-header" role="banner">
@@ -34,7 +34,7 @@
                 </span>
             </label>
 
-            <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+            <div class="trigger"><a class="page-link" href="/about/">About PointHeads</a></div>
         </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -65,17 +65,97 @@
         </div>
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1">
-                <ul class="contact-list"><li><a class="u-email" href="mailto:info@pointheads.com">info@pointheads.com</a></li><li class="p-name">Powered By Isonify, LLC</li>
-                </ul>
+                <ul class="contact-list"><li><a class="u-email" href="mailto:info@pointheads.com">info@pointheads.com</a></li></ul>
             </div>
 
             <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.facebook.com/PointHeads1"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg> <span class="username">PointHeads1</span></a></li><li><a href="https://www.twitter.com/PointHeads"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">PointHeads</span></a></li></ul>
+</div>
+
+            <div class="footer-col footer-col-3"><ul class="legal-list">
+    <li class="p-name">
+        © 2021&nbsp;Isonify, LLC</li>
+    <li class="p-name">
+        All Rights Reserved
+    </li><li>
+        <a class="legal-link" href="/legal/privacy.html">
+            Privacy Policy
+        </a>
+    </li><li>
+        <a class="legal-link" href="/legal/terms.html">
+            Terms and Conditions
+        </a>
+    </li></ul>
 </div>
         </div>
 
     </div>
 
 </footer>
+<div id="cookie-reminder" class="cookie-revoke cookie-active">
+    Cookie Policy
+</div>
+<div id="cookie-notice">
+    <!--googleoff: all-->
+    <span class="cookie-message">
+        This website uses cookies to ensure you get the best experience on our website.
+        <a tabindex="0" class="cookie-more-link" href="/legal/privacy.html" target="_blank">
+            Learn more
+        </a>
+    </span>
+    <div class="cookie-compliance">
+        <a tabindex="0" id="cookie-notice-deny" class="cookie-btn cookie-deny">
+            Hide notice
+        </a>
+        <a tabindex="0" id="cookie-notice-accept" class="cookie-btn cookie-allow">
+            Allow cookies
+        </a>
+    </div>
+    <!--googleon: all-->
+</div>
+<script>
+    function createCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name, "", -1);
+    }
+
+    if (readCookie('cookie-notice-accepted') == 'true') {} else {
+        document.getElementById('cookie-notice').style.display = 'flex';
+    }
+    document.getElementById('cookie-notice-accept').addEventListener("click", function () {
+        createCookie('cookie-notice-accepted', 'true', 31);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+    document.getElementById('cookie-notice-deny').addEventListener("click", function () {
+        eraseCookie('cookie-notice-accepted');
+        document.getElementById('cookie-notice').style.display = 'none';
+        document.getElementById('cookie-reminder').style.display = 'flex';
+    });
+    document.getElementById('cookie-reminder').addEventListener("click", function () {
+        document.getElementById('cookie-notice').style.display = 'flex';
+        document.getElementById('cookie-reminder').style.display = 'none';
+    });
+
+</script>
+
 </body>
 
 </html>
