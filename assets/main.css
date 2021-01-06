@@ -294,7 +294,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .cookie-more-link { opacity: .8; display: inline-block; cursor: pointer; padding: .2em; text-decoration: underline; }
 
-.cookie-more-link:visited { color: #ffffff; }
+.cookie-more-link:visited, .cookie-more-link, .cookie-more-link:hover { color: #ffffff; }
 
 .cookie-btn { display: block; padding: .4em .8em; font-size: .9em; font-weight: 700; border-width: 2px; border-style: solid; text-align: center; white-space: nowrap; margin-left: .2em; }
 
