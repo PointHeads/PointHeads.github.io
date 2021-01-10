@@ -274,42 +274,4 @@ table td { border: 1px solid #e8e8e8; }
 
 .highlight .il { color: #099; }
 
-.footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
-
-.footer-cols-1-2 { width: -webkit-calc(55% - (30px / 2)); width: calc(55% - (30px / 2)); }
-
-.footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
-
-.footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
-
-.footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
-
-.legal-list { list-style: none; margin-left: 0; }
-
-#cookie-notice { padding: 1em 1.8em; overflow: hidden; box-sizing: border-box; display: none; font-size: 16px; font-family: Helvetica,Calibri,Arial,sans-serif; position: fixed; bottom: 0; width: 100%; -webkit-box-align: center; align-items: center; -webkit-box-orient: horizontal; -webkit-box-direction: normal; background: #030954; color: #ffffff; flex-wrap: nowrap; flex-direction: row; z-index: 9999; }
-
-.cookie-message { display: block; -webkit-box-flex: 1; flex: 1 1 auto; max-width: 100%; margin-right: 1em; }
-
-.cookie-compliance { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -ms-flex-line-pack: justify; align-content: space-between; }
-
-.cookie-more-link { opacity: .8; display: inline-block; cursor: pointer; padding: .2em; text-decoration: underline; }
-
-.cookie-more-link:visited, .cookie-more-link, .cookie-more-link:hover { color: #ffffff; }
-
-.cookie-btn { display: block; padding: .4em .8em; font-size: .9em; font-weight: 700; border-width: 2px; border-style: solid; text-align: center; white-space: nowrap; margin-left: .2em; }
-
-.cookie-btn, .cookie-revoke { cursor: pointer; }
-
-.cookie-allow { color: #030954; border-color: transparent; background-color: #ff9803; }
-
-.cookie-allow:hover, .cookie-allow:focus { background-color: #ffbe29; }
-
-.cookie-deny { color: #ffffff; background-color: transparent; border-color: transparent; }
-
-.cookie-deny:hover, .cookie-deny:active { color: #ffffff; background-color: transparent; text-decoration: underline; }
-
-.cookie-revoke { bottom: -2em; transition: 0.3s; /* Add transition on hover */ left: 3em; border-top-left-radius: .5em; border-top-right-radius: .5em; position: fixed; padding: .5em; overflow: hidden; -webkit-box-sizing: border-box; box-sizing: border-box; font-family: Helvetica,Calibri,Arial,sans-serif; font-size: 16px; line-height: 1.5em; display: -webkit-box; display: -ms-flexbox; display: none; -ms-flex-wrap: nowrap; flex-wrap: nowrap; z-index: 9999; color: white; background-color: #030954; }
-
-.cookie-revoke:hover { bottom: 0; text-decoration: underline; }
-
 /*# sourceMappingURL=main.css.map */
