@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-01-30T16:30:26-06:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">Booking Hilton Award Stays the Headache-Free Way</title><link href="https://www.pointheads.com/posts/hilton_award_booking/" rel="alternate" type="text/html" title="Booking Hilton Award Stays the Headache-Free Way" /><published>2021-01-30T10:30:10-06:00</published><updated>2021-01-30T10:30:10-06:00</updated><id>https://www.pointheads.com/posts/hilton_award_booking</id><content type="html" xml:base="https://www.pointheads.com/posts/hilton_award_booking/">&lt;p&gt;Hilton has made great upgrades to their award booking tools over the last few years, most notably with the introduction of the &lt;a href=&quot;https://pointsexplorer.hiltonhonors.com/&quot; target=&quot;_blank&quot;&gt;Hilton Points Explorer&lt;/a&gt;.
-It is easier than ever to find and book a Hilton Hotel using points.
-However, the points explorer is not always the right tool to use.
-Here we guide you through the hassle-free way to book a Hilton Hotel with points, based on the criteria you have for your upcoming trip.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-01-31T09:55:21-06:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">Booking Hilton Award Stays Without the Headaches</title><link href="https://www.pointheads.com/posts/hilton_award_booking/" rel="alternate" type="text/html" title="Booking Hilton Award Stays Without the Headaches" /><published>2021-01-30T10:30:10-06:00</published><updated>2021-01-30T10:30:10-06:00</updated><id>https://www.pointheads.com/posts/hilton_award_booking</id><content type="html" xml:base="https://www.pointheads.com/posts/hilton_award_booking/">&lt;p&gt;&lt;em&gt;Editor’s Note: The screenshots in this post are modified versions of what you’ll see when you follow the guide on the Hilton website. We are more interested in messing with HTML pages than navigating the gray area between copyright infringement and fair use.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hilton has made significant upgrades to their award booking tools over the last few years, most notably with the introduction of the &lt;a href=&quot;https://pointsexplorer.hiltonhonors.com/&quot; target=&quot;_blank&quot;&gt;Hilton Points Explorer&lt;/a&gt;.
+It is easier than ever to find and book a Hilton hotel using points.
+However, the Points Explorer is not always the right tool to use.
+Here we guide you through the hassle-free way to book a Hilton hotel with points, based on the criteria you have for your upcoming trip.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#flexible-dates&quot;&gt;Book with Flexible Dates/Destination&lt;/a&gt;&lt;/strong&gt;: This is where the Points Explorer shines, but only if you know how to navigate the results.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#strict-dates&quot;&gt;Book a Known Destination with Strict Dates&lt;/a&gt;&lt;/strong&gt;: This is where the Points Explorer struggles, but a small twist on the normal booking process makes it straightfoward.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#flexible-datesdestination&quot;&gt;Book with Flexible Dates/Destination&lt;/a&gt;&lt;/strong&gt;: This is where the Points Explorer shines, but only if you know how to navigate the results.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#strict-dates&quot;&gt;Book a Known Destination with Strict Dates&lt;/a&gt;&lt;/strong&gt;: This is where the Points Explorer struggles. Using a small twist on the normal booking process is much easier.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#evaluating-the-award-booking&quot;&gt;Evaluating the Award Booking&lt;/a&gt;&lt;/strong&gt;: Hilton’s &lt;em&gt;Points &amp;amp; Money slider&lt;/em&gt; makes it easy to evaluate your award booking once you’ve selected a room.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -20,46 +22,102 @@ Here we guide you through the hassle-free way to book a Hilton Hotel with points
 &lt;p&gt;This is because Points Explorer does not have a “date” filter and forces you to select a hotel using only its name, location and mininum/maximum points per night. If you need to explore some hotels first, it is best to go explore somewhere else and come back with some hotel names and/or brands in mind&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.  When you are ready, let Points Explorer find you the best award options.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Go to &lt;a href=&quot;https://pointsexplorer.hiltonhonors.com/&quot; target=&quot;_blank&quot;&gt;Hilton Points Explorer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Set your points per night limit and click &lt;strong&gt;Search&lt;/strong&gt; (yes, leave the “Where do you want to go” input blank, we’ll update that next!)&lt;/li&gt;
-  &lt;li&gt;On the new page, you can dynamically change the “Location” input to filter results. Location can be a Hotel Name, Brand, and/or City/State/Country. There is a lot of flexibility here.&lt;/li&gt;
-  &lt;li&gt;Find a hotel that interests you, and take note of the points range.&lt;/li&gt;
-  &lt;li&gt;Click on &lt;strong&gt;Check Availability&lt;/strong&gt; to open a new page to book for that hotel.&lt;/li&gt;
-  &lt;li&gt;You will notice that the default dates are set to today, and the points per night may be very different than the ones advertised. This is where date flexibility is important.&lt;/li&gt;
-  &lt;li&gt;On &lt;strong&gt;Edit stay&lt;/strong&gt;, click on one of the dates, and select &lt;strong&gt;Shop by Price&lt;/strong&gt; at the bottom of the popup.&lt;/li&gt;
-  &lt;li&gt;Now you can see the points per night for all dates in a month. Navigate around to find a range of dates with the point values you noted earlier. Use this to define the start and end date of your vacation!
-    &lt;ol&gt;
-      &lt;li&gt;If you don’t like any of the date options, just close the window. The Points Explorer is waiting right where you left it on step 4.&lt;/li&gt;
-    &lt;/ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to &lt;a href=&quot;https://pointsexplorer.hiltonhonors.com/&quot; target=&quot;_blank&quot;&gt;Hilton Points Explorer&lt;/a&gt;. Set your points per night limit and click &lt;strong&gt;Search&lt;/strong&gt; (yes, leave the “Where do you want to go” input blank, we’ll update that next!).&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/pe_01.jpg&quot; alt=&quot;Example Points Explorer Setting&quot; /&gt;
+ &lt;em&gt;In the example, we chose to max out the points.&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Select the first date of your vacation to go back to the &lt;strong&gt;Select a Room&lt;/strong&gt; page.&lt;/li&gt;
-  &lt;li&gt;On &lt;strong&gt;Edit stay&lt;/strong&gt;, click on the second date (departure) and set it to the end date of your vacation.&lt;/li&gt;
-  &lt;li&gt;Select &lt;strong&gt;Update&lt;/strong&gt; to see the new rates for your stay.&lt;/li&gt;
-  &lt;li&gt;Now it’s time to &lt;a href=&quot;#evaluating-the-award-booking&quot;&gt;evaluate and finalize the award booking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On the new page, you can dynamically change the “Location” input to filter results. Location can be a Hotel Name, Brand, and/or City/State/Country. There is a lot of flexibility here.&lt;/p&gt;
+
+    &lt;p&gt;Find a hotel that interests you, and take note of the points range. The first (minumum) represents the lowest points per night booked by someone within the last few months. The second (maximum) represents the standard room rate per night from the last few months.&lt;/p&gt;
+
+    &lt;p&gt;Click on &lt;strong&gt;Check Availability&lt;/strong&gt; to open a new page to book for that hotel.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/pe_02.jpg&quot; alt=&quot;Example Points Explorer Search&quot; /&gt;
+ &lt;em&gt;In the example, we chose to search for Waldof Astoria’s in Hawaii&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You will notice that the default dates are set to today, and the points per night may be very different than the ones advertised. This is where date flexibility is important.&lt;/p&gt;
+
+    &lt;p&gt;You will also notice that you aren’t signed in! Sign in on the top right to see the points wrapped in a beautiful gift-wrapped box.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/pe_03.jpg&quot; alt=&quot;Book Tonight Before/After Sign In&quot; /&gt;
+ &lt;em&gt;Before signing in on the left, after on the right.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On &lt;strong&gt;Edit stay&lt;/strong&gt;, click on one of the dates to open a calendar. Select &lt;strong&gt;Shop by Price&lt;/strong&gt; at the bottom.
+ &lt;img src=&quot;/assets/images/posts/hilton_awards/pe_04.jpg&quot; alt=&quot;Shop by Price&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now you can see the points per night for all dates in a month. Navigate around to find a range of dates with the point values you noted earlier. Use this to define the start and end date for your vacation!
+ &lt;img src=&quot;/assets/images/posts/hilton_awards/pe_05.jpg&quot; alt=&quot;Award Search&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;In the example, we pretend-like the 5 consecutive nights of 95,000 points starting March 3&lt;/em&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;If you don’t like any of the date options, just close the window. The Points Explorer is waiting right where you left it on step 2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When you find a set of dates you like, click on &lt;strong&gt;1 Night&lt;/strong&gt; at the top of the screen and change it to the desired number of nights. Then click &lt;strong&gt;Update&lt;/strong&gt;.
+ &lt;img src=&quot;/assets/images/posts/hilton_awards/pe_06.jpg&quot; alt=&quot;Number of Nights Selection&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;In the example, we change number of nights to 5.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The calendar will refresh and each date will show the points per night for the number of nights you selected. Select the date to start your vacation. It will send you back to the &lt;strong&gt;Select a Room&lt;/strong&gt; page.&lt;/p&gt;
+
+    &lt;p&gt;Verify the dates are correct and a room exists with the points you expect.  Now it’s time to &lt;a href=&quot;#evaluating-the-award-booking&quot;&gt;evaluate and finalize the award booking&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/pe_07.jpg&quot; alt=&quot;Number of Nights Selection&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;In the example, we verify the terrace view with 2 queen beds is available for 95,000 points per night for the five night stay from March 3 to March 8&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;strict-dates&quot;&gt;Strict Dates&lt;/h1&gt;
 &lt;p&gt;When travel dates are strict, Points Explorer is more of a distraction than benefit.  In these cases, it is better to use the “Special Rates” feature to find award rates via the normal booking process.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Log in to &lt;a href=&quot;https://www.hilton.com/en/&quot; target=&quot;_blank&quot;&gt;Hilton.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Enter the destination and dates of your trip on the main page.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The Minor Twist&lt;/strong&gt;: Click on &lt;em&gt;Special Rates&lt;/em&gt; and select &lt;em&gt;Use Points&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Click &lt;em&gt;Find a Hotel&lt;/em&gt; to see the options.&lt;/li&gt;
-  &lt;li&gt;The results will appear with the cost listed as points/night.  Find a hotel of interest and select &lt;strong&gt;View Rates&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Now it’s time to &lt;a href=&quot;#evaluating-the-award-booking&quot;&gt;evaluate and finalize the award booking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Log in to &lt;a href=&quot;https://www.hilton.com/en/&quot; target=&quot;_blank&quot;&gt;Hilton.com&lt;/a&gt;. Enter the destination and dates of your trip on the main page.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;The Minor Twist&lt;/strong&gt;: Click on &lt;em&gt;Special Rates&lt;/em&gt; and select &lt;em&gt;Use Points&lt;/em&gt;.  Click &lt;em&gt;Find a Hotel&lt;/em&gt; to see the options.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/nn_01.jpg&quot; alt=&quot;Strict Dates&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;In the example, we search hotels in Phoenix to thaw out over Spring Break.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The results will appear with the cost listed as points/night.  Find a hotel of interest and select &lt;strong&gt;View Rates&lt;/strong&gt;. Now it’s time to &lt;a href=&quot;#evaluating-the-award-booking&quot;&gt;evaluate and finalize the award booking&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;evaluating-the-award-booking&quot;&gt;Evaluating the Award Booking&lt;/h1&gt;
-&lt;p&gt;Once you reach the reservation page of an award booking you can start evaluating whether this is a good point value for you&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.  The page shows the different room types for the selected hotel, each with points per night (e.g. 26,000 points/night) and approximate dollar value (e.g. Rates From $141).&lt;/p&gt;
+&lt;p&gt;Once you reach the reservation page (&lt;em&gt;Select a Room&lt;/em&gt;) of an award booking you can start evaluating whether this is a good point value for you&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.  The page shows the different room types for the selected hotel, each with points per night (e.g. 25,000 points/night) and approximate dollar value (e.g. Rates From $144).&lt;/p&gt;
 
 &lt;p&gt;Select the &lt;strong&gt;Book Now&lt;/strong&gt; box (the one with the present) on the room of interest to get to the final pricing information and reach Hilton’s other useful award booking tool: the &lt;em&gt;Points &amp;amp; Money slider&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;On the &lt;strong&gt;Payment and Guest Details&lt;/strong&gt; page, you can use the &lt;em&gt;Points &amp;amp; Money slider&lt;/em&gt; to determine if this booking is a good deal. Slide all the way to the right to see the total number of points for the booking (e.g. 104,000 points for a 5 night stay with 26,000 points/night – 5th night free!). Now slide all the way to the left to see the total number of dollars for the booking (e.g. $809.58 for a 5 night stay at $141/night + tax).&lt;/p&gt;
+&lt;p&gt;On the &lt;strong&gt;Payment and Guest Details&lt;/strong&gt; page, you can use the &lt;em&gt;Points &amp;amp; Money slider&lt;/em&gt; to determine if this booking is a good deal. Slide all the way to the right to see the total number of points for the booking.&lt;/p&gt;
 
-&lt;p&gt;Calculate the value of your points: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$809.58 / 104,000 * 100 = 0.78 cents/point&lt;/code&gt;. And the fifth night free makes this a great award booking&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;! Congratulations if you found a similar deal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/ev_points.jpg&quot; alt=&quot;All Points&quot; /&gt;
+&lt;em&gt;100,000 points for a 5 night stay with 25,000 points/night; the 5th night is free!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If you do not have enough points for the full stay, you can always adjust the slider and perform similar calculations to see if it is worth using partial points on the booking. For example, sliding to the middle might give you 52,000 Points + $424.32. Now subtract that cost from the cost of using no points ($809.58) and divide by the points: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;($809.58 - $492.14) / 52,000 * 100 = 0.61 cents/point&lt;/code&gt;.  Not as great as if you used only points, but still a solid use of points for most people.&lt;/p&gt;
+&lt;p&gt;Now slide all the way to the left to see the total cost in dollars for the booking.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/hilton_awards/ev_money.jpg&quot; alt=&quot;All Money&quot; /&gt;
+&lt;em&gt;$815.66 for a 5 night stay at $144/night + tax&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Calculate the value of your points: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$815.66 / 100,000 * 100 = 0.82 cents/point&lt;/code&gt;. And the fifth night free makes this a great award booking&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;! Congratulations if you found a similar deal.&lt;/p&gt;
+
+&lt;p&gt;If you do not have enough points for the full stay, you can always adjust the slider and perform similar calculations to see if it is worth using partial points on the booking. For example, sliding to the middle might give you 50,000 Points + $489.29.
+&lt;img src=&quot;/assets/images/posts/hilton_awards/ev_mix.jpg&quot; alt=&quot;Points and Money&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now subtract that cost from the cost of using no points ($815.66) and divide by the points: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;($815.66 - $489.29) / 50,000 * 100 = 0.65 cents/point&lt;/code&gt;.  Not as great as if you used only points, but still a solid use of points for most people.&lt;/p&gt;
+
+&lt;p&gt;And that’s all it takes. Now you have the power to book a Hilton award stay and evaluate how well you spent your points. Happy planning!&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
@@ -70,10 +128,10 @@ Here we guide you through the hassle-free way to book a Hilton Hotel with points
       &lt;p&gt;&lt;strong&gt;If you have any &lt;a href=&quot;https://millionmilesecrets.com/guides/hilton-status/&quot; target=&quot;_blank&quot;&gt;Hilton Elite Status&lt;/a&gt;&lt;/strong&gt;, remember the 5th night is always free for Standard Room Rewards! But this discount is not represented in the points per night estimations until you reach the &lt;em&gt;Payment and Guest Details&lt;/em&gt; page of the booking process. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Most evaluations of Hilton points place them between 0.4 and 0.6 cents per point, so receiving 0.78 cents per point would be a great deal for almost everyone. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Most evaluations of Hilton points place them between 0.4 and 0.6 cents per point, so receiving 0.82 cents per point would be a great deal for almost everyone. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>PointHeads</name></author><summary type="html">Hilton has made great upgrades to their award booking tools over the last few years, most notably with the introduction of the Hilton Points Explorer. It is easier than ever to find and book a Hilton Hotel using points. However, the points explorer is not always the right tool to use. Here we guide you through the hassle-free way to book a Hilton Hotel with points, based on the criteria you have for your upcoming trip.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pointheads.com/assets/images/posts/credit_security.jpg" /><media:content medium="image" url="https://www.pointheads.com/assets/images/posts/credit_security.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Staying Secure With Credit Card Rewards</title><link href="https://www.pointheads.com/posts/credit_security/" rel="alternate" type="text/html" title="Staying Secure With Credit Card Rewards" /><published>2021-01-22T19:34:40-06:00</published><updated>2021-01-22T19:34:40-06:00</updated><id>https://www.pointheads.com/posts/credit_security</id><content type="html" xml:base="https://www.pointheads.com/posts/credit_security/">&lt;p&gt;Whether you are planning a single vacation or looking to travel the world, reward points can help you get there on a budget. But as you start maximizing your rewards, you will find yourself creating many online accounts and periodically opening a credit card.  While you don’t need to fear security breaches, it is imperative that you know how to protect your accounts, your credit, and your finances from potential issues.  The following steps will reduce your exposure to threats and allow you to react quickly if any of your information is compromised.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>PointHeads</name></author><summary type="html">Editor’s Note: The screenshots in this post are modified versions of what you’ll see when you follow the guide on the Hilton website. We are more interested in messing with HTML pages than navigating the gray area between copyright infringement and fair use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pointheads.com/assets/images/posts/hilton_award_booking.jpg" /><media:content medium="image" url="https://www.pointheads.com/assets/images/posts/hilton_award_booking.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Staying Secure With Credit Card Rewards</title><link href="https://www.pointheads.com/posts/credit_security/" rel="alternate" type="text/html" title="Staying Secure With Credit Card Rewards" /><published>2021-01-22T19:34:40-06:00</published><updated>2021-01-22T19:34:40-06:00</updated><id>https://www.pointheads.com/posts/credit_security</id><content type="html" xml:base="https://www.pointheads.com/posts/credit_security/">&lt;p&gt;Whether you are planning a single vacation or looking to travel the world, reward points can help you get there on a budget. But as you start maximizing your rewards, you will find yourself creating many online accounts and periodically opening a credit card.  While you don’t need to fear security breaches, it is imperative that you know how to protect your accounts, your credit, and your finances from potential issues.  The following steps will reduce your exposure to threats and allow you to react quickly if any of your information is compromised.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#strengthen-your-accounts&quot;&gt;Strengthen Your Accounts&lt;/a&gt;&lt;/strong&gt;: As you manage online accounts, use strong passwords and store them in a secure place (hint: a piece of paper rarely does the job&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/li&gt;
