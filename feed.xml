@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-02-07T23:27:48-06:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">The Hawaiian Award Adventure: Booking Our First Trip With Points and Miles</title><link href="https://www.pointheads.com/posts/hawaiian_award_trip/" rel="alternate" type="text/html" title="The Hawaiian Award Adventure: Booking Our First Trip With Points and Miles" /><published>2021-02-06T11:53:15-06:00</published><updated>2021-02-06T11:53:15-06:00</updated><id>https://www.pointheads.com/posts/hawaiian_award_trip</id><content type="html" xml:base="https://www.pointheads.com/posts/hawaiian_award_trip/">&lt;p&gt;Armed with knowledge from blogs and podcasts and tools to keep us organized and &lt;a href=&quot;/posts/credit_security/&quot; target=&quot;_blank&quot;&gt;secure&lt;/a&gt;, it was time to venture out and book our first award trip. The destination was obvious: After talking about Hawaii for over a decade, it was time to take action.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-02-14T01:17:59-06:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">Using LastPass? That’s Great! Using LastPass Families? Think Twice</title><link href="https://www.pointheads.com/posts/lastpass_families/" rel="alternate" type="text/html" title="Using LastPass? That’s Great! Using LastPass Families? Think Twice" /><published>2021-02-13T21:22:05-06:00</published><updated>2021-02-13T21:22:05-06:00</updated><id>https://www.pointheads.com/posts/lastpass_families</id><content type="html" xml:base="https://www.pointheads.com/posts/lastpass_families/">&lt;p&gt;In our post about &lt;a href=&quot;/posts/credit_security/&quot; target=&quot;_blank&quot;&gt;staying secure with credit card rewards&lt;/a&gt; we recommended using &lt;a href=&quot;https://www.lastpass.com&quot; target=&quot;_blank&quot;&gt;LastPass&lt;/a&gt; to maintain strong and secure passwords.  While LastPass continues to hold a slight edge over the competition for single users (i.e. free and Premium plans), they have secretly been clawing back features that make the Families plan less enticing than advertised.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#feature-clawback&quot;&gt;What Changed?&lt;/a&gt;&lt;/strong&gt;: The notable change involves LastPass’ removal of security monitoring from the free plan and all shared folders in the Families plan.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#lastpass-response&quot;&gt;What are they doing about it?&lt;/a&gt;&lt;/strong&gt;: Nothing. Families plan users were not even notified of the change. It appears refunds will be offered upon request for anyone that figures it out.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#families-alternatives&quot;&gt;What are my options?&lt;/a&gt;&lt;/strong&gt;: Instead of Families, either use one account for the entire family or sign up for one Premium account and use its one-to-many sharing feature to share individual items.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#lastpass-alternatives&quot;&gt;Is LastPass still the best option?&lt;/a&gt;&lt;/strong&gt;: For most people, yes. But LastPass is treading dangerously in the “fool-me-once” waters with their recent business decisions. Viable alternatives are available.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;feature-clawback&quot;&gt;Feature Clawback&lt;/h2&gt;
+&lt;p&gt;Until Fall of 2020, one of LastPass’ most notable features was their “Security Challenge”. Available to all users, this feature monitored all credentials to warn of duplicate, weak, and old passwords. It also had some support warning of any credentials involved in compromised websites&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;In Fall 2020, Security Challenge was re-branded as “&lt;a href=&quot;https://support.logmeininc.com/lastpass/help/how-is-the-security-dashboard-different-than-what-was-offered-before-through-the-security-challenge-in-lastpass&quot; target=&quot;_blank&quot;&gt;Security Dashboard&lt;/a&gt;”. LastPass took that opportunity to remove the feature completely from free accounts.  However, in the transition, they also removed this feature from all shared folders.&lt;/p&gt;
+
+&lt;p&gt;As the main benefit of the LastPass Families plan is to create shared folders for up to 6 family members, this clawback significantly deteriorates the value of that plan.  Now, using the shared folders feature removes the security dashboard feature. You effectively have to choose between the two.&lt;/p&gt;
+
+&lt;p&gt;Even worse, there is no indication on the security dashboard (or anywhere else in LastPass documentation) that those shared passwords are being excluded. If even one password is not shared, the dashboard reports results as if everything is monitored.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/lastpass_families/dashboard_deceiving_score.jpg&quot; alt=&quot;Security Dashboard Deceiving&quot; /&gt;
+&lt;em&gt;Security Dashboard screenshot courtesy of LastPass. When at least one password is not shared, the score is deceiving. “View passwords” will reveal that only the non-shared passwords are included in the score.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Only when all passwords are placed in a shared folder does it become obvious that the Security Dashboard is not working as advertised.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/lastpass_families/dashboard_no_score.jpg&quot; alt=&quot;Security Dashboard Disabled&quot; /&gt;
+&lt;em&gt;Security Dashboard screenshot courtesy of LastPass. Despite storing hundreds of passwords in shared folders, the dashboard does not function.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lastpass-response&quot;&gt;LastPass Response&lt;/h2&gt;
+&lt;p&gt;LastPass was &lt;a href=&quot;https://community.logmein.com/t5/Support-Discussions/Security-Score-for-Shared-Folders-in-Lastpass-Families/m-p/255236#M24897&quot; target=&quot;_blank&quot;&gt;alerted about this issue&lt;/a&gt; shortly after it emerged in late October 2020.  Based on the responses in that thread, it appears this clawback was a conscious decision made to the detriment of its users&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even worse, at the time of this writing, LastPass continues to promote the Families plan with deception. It fails to mention that shared passwords are not monitored&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. &lt;strong&gt;False advertising quoted verbatim from &lt;a href=&quot;https://www.lastpass.com/family-password-manager&quot; target=&quot;_blank&quot;&gt;their site&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Protect your family’s passwords&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;LastPass monitors your family’s email addresses continuously for involvement in data breaches.&lt;/li&gt;
+    &lt;li&gt;Put your mind at ease knowing LastPass is protecting you - even when you aren’t logged in.&lt;/li&gt;
+    &lt;li&gt;Get alerts when your family’s sensitive information is compromised so you can update passwords immediately.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although they seem willing to provide a refund for any Families plan user that requests one due to this issue, they have failed to reach out and notify those users. A majority of users are probably unaware that the plan has changed and is no longer monitoring all passwords.&lt;/p&gt;
+
+&lt;h2 id=&quot;families-alternatives&quot;&gt;Families Alternatives&lt;/h2&gt;
+&lt;p&gt;There are a couple options to keep LastPass and the sharing functionality of the Families plan without actually using Families.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The simplest method is to consolidate everything into one Premium account. This may be a viable alternative for couples that share a majority of passwords, but larger families may need some organization.  It is doable if you can keep items organized with normal folders.&lt;/li&gt;
+  &lt;li&gt;Place all family members on a free plan, but one (very dedicated) user on the Premium plan.  Premium users can share individual items with multiple people. Those individually-shared items are – at the time of this writing – included in the security dashboard.  This can work if one family member is dedicated enough to manage the items at an individual, instead of folder, level. However, items not shared with the Premium user will not be included in the security monitoring.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If these options are not practical, it may be time to look for an alternative to LastPass.&lt;/p&gt;
+
+&lt;h2 id=&quot;lastpass-alternatives&quot;&gt;LastPass Alternatives&lt;/h2&gt;
+&lt;p&gt;The two major players in password management are LastPass and &lt;a href=&quot;https://1password.com/&quot;&gt;1Password&lt;/a&gt;. There are many reviews comparing these two in depth, and consensus is that LastPass still holds a slight edge, especially for first time users of password managers.&lt;/p&gt;
+
+&lt;p&gt;We encourage everyone interested to look at those comparisons and make an informed decision.  The first page on Google search is &lt;a href=&quot;https://www.google.com/search?q=lastpass+vs+1password&quot; target=&quot;_blank&quot;&gt;filled with worthy reviews&lt;/a&gt;, so we won’t bother regurgitating it here.&lt;/p&gt;
+
+&lt;p&gt;LastPass Families users are Clark Griswald in Christmas Vacation, putting in a pool with their false sense of security monitoring. LastPass is his boss taking away bonuses without telling anybody. If this display of questionable integrity has thrown you off LastPass altogether, the next best option is &lt;a href=&quot;https://1password.com/&quot;&gt;1Password&lt;/a&gt;.  Otherwise, you can request a refund, avoid using Families, and hope they have a change of heart before straying too far from their mission of keeping families secure.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nGotsAU1gTk?start=344&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;For example, it would warn you if it found an e-mail address associated with &lt;a href=&quot;https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/2012-linkedin-breach-117-million-emails-and-passwords-stolen-not-6-5m&quot; target=&quot;_blank&quot;&gt;LinkedIn’s 2012 security breach&lt;/a&gt;, so you know to change your credentials. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;In the suspicious timing category, LastPass parent company LogMeIn, Inc. &lt;a href=&quot;https://www.globenewswire.com/news-release/2020/08/31/2086214/0/en/Francisco-Partners-and-Evergreen-Coast-Capital-Complete-Acquisition-of-LogMeIn.html&quot; target=&quot;_blank&quot;&gt;finalized a merger to go private&lt;/a&gt; only a month before these issues started appearing. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;To be fair, the technical support team justified that all the features are still present if one were to use the following (completely impractical) solution: Keep a copy of each item from the shared folder in a non-shared folder. The security dashboard feature will work on the non-shared folders, and the family can access the items from the shared folders.  That is, until you forget to keep them in sync. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>PointHeads</name></author><summary type="html">In our post about staying secure with credit card rewards we recommended using LastPass to maintain strong and secure passwords. While LastPass continues to hold a slight edge over the competition for single users (i.e. free and Premium plans), they have secretly been clawing back features that make the Families plan less enticing than advertised.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pointheads.com/assets/images/posts/lastpass_families.jpg" /><media:content medium="image" url="https://www.pointheads.com/assets/images/posts/lastpass_families.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Hawaiian Award Adventure: Booking Our First Trip With Points and Miles</title><link href="https://www.pointheads.com/posts/hawaiian_award_trip/" rel="alternate" type="text/html" title="The Hawaiian Award Adventure: Booking Our First Trip With Points and Miles" /><published>2021-02-06T11:53:15-06:00</published><updated>2021-02-06T11:53:15-06:00</updated><id>https://www.pointheads.com/posts/hawaiian_award_trip</id><content type="html" xml:base="https://www.pointheads.com/posts/hawaiian_award_trip/">&lt;p&gt;Armed with knowledge from blogs and podcasts and tools to keep us organized and &lt;a href=&quot;/posts/credit_security/&quot; target=&quot;_blank&quot;&gt;secure&lt;/a&gt;, it was time to venture out and book our first award trip. The destination was obvious: After talking about Hawaii for over a decade, it was time to take action.&lt;/p&gt;
 
 &lt;p&gt;With excitement levels through the roof, we found our ideal flight and hotel. All we needed to do was earn some points to make our dream vacation become reality. Of course, as first time award bookers, that was easier said than done. Here’s what actually happened, with hopes that you can use our lessons and have much more success with your next award trip.&lt;/p&gt;
 
