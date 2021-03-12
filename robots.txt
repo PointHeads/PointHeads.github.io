@@ -1,2 +1,4 @@
+user-agent: Twitterbot
+disallow:
 user-agent: *
-allow: /
+disallow: /
