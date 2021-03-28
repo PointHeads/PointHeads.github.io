@@ -9,13 +9,18 @@ function loadScriptAsync(scriptSrc, callback) {
     document.head.appendChild(script);
 }
 
-/* Only load google analytics if cookies have been accepted */
-if (readCookie('cookie-notice-accepted') == 'true') {
-    /* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
-    loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-WWQQXP89L4', function () {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-WWQQXP89L4', { 'anonymize_ip': true });
-    })
-}
+/* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-WWQQXP89L4', function () {
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+
+    /* Only load google analytics if cookies have been accepted */
+    var use_cookies = (readCookie('cookie-notice-accepted') == 'true') ? 'granted' : 'denied';
+    gtag('consent', 'default', {
+        'ad_storage': use_cookies,
+        'analytics_storage': use_cookies
+    });
+
+    gtag('js', new Date());
+    gtag('config', 'G-WWQQXP89L4', { 'anonymize_ip': true });
+})

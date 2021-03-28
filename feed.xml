@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-03-14T23:49:31-05:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">Shop With a Point to Save on Your Amazon Deliveries</title><link href="https://www.pointheads.com/posts/amazon_pay_a_point/" rel="alternate" type="text/html" title="Shop With a Point to Save on Your Amazon Deliveries" /><published>2021-03-14T19:16:55-05:00</published><updated>2021-03-14T19:16:55-05:00</updated><id>https://www.pointheads.com/posts/amazon_pay_a_point</id><content type="html" xml:base="https://www.pointheads.com/posts/amazon_pay_a_point/">&lt;p&gt;Amazon’s Shop with Points feature has triggered an emotional rollercoaster of reviews over the years. People hate the terrible valuations (often one of the worst ways to use points in most programs). People love the deals that come with using points (often &amp;gt;30% off an order by paying with points). People hate when an order accidentally uses points (often set as the default during enrollment in promotions).  People love that promotions are triggered even if only a single point is used for a purchase (often making incredible valuations at thousands of cents per point)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://www.pointheads.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pointheads.com/" rel="alternate" type="text/html" /><updated>2021-03-28T15:00:04-05:00</updated><id>https://www.pointheads.com/feed.xml</id><title type="html">PointHeads</title><subtitle>The practical guide for the casual rewards traveler. PointHeads provides services allowing credit card users to travel frequently and affordably using points and miles.</subtitle><author><name>PointHeads</name></author><entry><title type="html">Shop With a Point to Save on Your Amazon Deliveries</title><link href="https://www.pointheads.com/posts/amazon_pay_a_point/" rel="alternate" type="text/html" title="Shop With a Point to Save on Your Amazon Deliveries" /><published>2021-03-14T19:16:55-05:00</published><updated>2021-03-14T19:16:55-05:00</updated><id>https://www.pointheads.com/posts/amazon_pay_a_point</id><content type="html" xml:base="https://www.pointheads.com/posts/amazon_pay_a_point/">&lt;p&gt;Amazon’s Shop with Points feature has triggered an emotional rollercoaster of reviews over the years. People hate the terrible valuations (often one of the worst ways to use points in most programs). People love the deals that come with using points (often &amp;gt;30% off an order by paying with points). People hate when an order accidentally uses points (often set as the default during enrollment in promotions).  People love that promotions are triggered even if only a single point is used for a purchase (often making incredible valuations at thousands of cents per point)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;To take advantage of this payment feature, you need to re-brand it in your mind as &lt;em&gt;Amazon Shop with A Single Point&lt;/em&gt;.  Follow these steps to feel all the love and eliminate all the hate (at least while shopping at Amazon).&lt;/p&gt;
 
@@ -22,7 +22,7 @@
   &lt;li&gt;&lt;strong&gt;CRITICAL&lt;/strong&gt;: Find the part that says &lt;strong&gt;Apply by Default&lt;/strong&gt; and make sure it is off/unchecked/negating whatever clever way Amazon tries to make it your default payment method.
  &lt;img src=&quot;/assets/images/posts/amazon_points/enroll_apply_by_default.jpg&quot; alt=&quot;Pay By Default Tricks&quot; /&gt;
  &lt;em&gt;Two different ways Amazon will try to make you do an oops-n-drain after enrolling. Screenshots courtesy of Amazon.&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Double Check&lt;/strong&gt;: After linking the account, open it up and verify pay by default is off.
+  &lt;li&gt;&lt;strong&gt;Double Check&lt;/strong&gt;: After linking the account, open it up and verify &lt;em&gt;Apply by Default&lt;/em&gt; is off.
  &lt;img src=&quot;/assets/images/posts/amazon_points/verify_apply_by_default.jpg&quot; alt=&quot;Pay By Default Sanity Check&quot; /&gt;
  &lt;em&gt;Phew, apply by default is off. Screenshot courtesy of Amazon.&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -122,7 +122,7 @@
 &lt;p&gt;We tried to cheat and sign up for a promotion for using a Hilton point (from the links above), but we couldn’t find any. We get no discount here. Also notice that Hilton points are so diluted it takes 5 to make one cent, completely ruining the &lt;em&gt;Shop with A Point&lt;/em&gt; concept. Boo Hilton!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/posts/amazon_points/hilton.jpg&quot; alt=&quot;Citi 1 Point&quot; /&gt;
-&lt;em&gt;No discount for using 5 Hilton Honor point. Screenshot courtesy of Amazon&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;No discount for using 5 Hilton Honors points. Screenshot courtesy of Amazon&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;capital-one&quot;&gt;Capital One&lt;/h3&gt;
 &lt;p&gt;We tried to cheat and sign up for a promotion for using a Capital One mile (from the links above), but then remembered we don’t have any Capital One credit cards. Boo us!&lt;/p&gt;
@@ -149,7 +149,16 @@
 
 &lt;p&gt;And now you know everything you need to save money while Amazon Prime takes over your life.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BGEAiUeiaKs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;youtube-embed cookie-consent-required&quot;&gt;
+    &lt;div class=&quot;youtube-embed__notice&quot;&gt;
+        &lt;img src=&quot;https://i3.ytimg.com/vi/BGEAiUeiaKs/maxresdefault.jpg&quot; /&gt;
+        &lt;p&gt;Please allow cookies to enable YouTube videos.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;youtube-embed__iframe&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; data-src=&quot;https://www.youtube.com/embed/BGEAiUeiaKs?&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
@@ -613,7 +622,16 @@ Our expected value of those points was &lt;code class=&quot;language-plaintext h
 
 &lt;p&gt;Otherwise, you can request a refund, avoid using Families, and hope they have a change of heart before straying too far from their mission of keeping families secure.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nGotsAU1gTk?start=344&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;youtube-embed cookie-consent-required&quot;&gt;
+    &lt;div class=&quot;youtube-embed__notice&quot;&gt;
+        &lt;img src=&quot;https://i3.ytimg.com/vi/nGotsAU1gTk/maxresdefault.jpg&quot; /&gt;
+        &lt;p&gt;Please allow cookies to enable YouTube videos.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;youtube-embed__iframe&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; data-src=&quot;https://www.youtube.com/embed/nGotsAU1gTk?start=344&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
@@ -730,7 +748,16 @@ Our expected value of those points was &lt;code class=&quot;language-plaintext h
 
 &lt;p&gt;Of course, Covid blasted the trip to smithereens, and Hawaii remains just out reach. Someday the opportunity will come again. When it does, we’ll be ready to take a mulligan and plan a more efficient award booking process. Until then, we’ll express our feelings through Moana.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pnZbiKKydWU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;youtube-embed cookie-consent-required&quot;&gt;
+    &lt;div class=&quot;youtube-embed__notice&quot;&gt;
+        &lt;img src=&quot;https://i3.ytimg.com/vi/pnZbiKKydWU/maxresdefault.jpg&quot; /&gt;
+        &lt;p&gt;Please allow cookies to enable YouTube videos.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;youtube-embed__iframe&quot;&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; data-src=&quot;https://www.youtube.com/embed/pnZbiKKydWU?&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;

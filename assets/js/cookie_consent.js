@@ -24,8 +24,16 @@ function eraseCookie(name) {
     createCookie(name, "", -1);
 }
 
-if (readCookie('cookie-notice-accepted') == 'true') {
+function enableCookies() {
+    var cookieElements = document.getElementsByClassName('cookie-consent-required');
+    for (var i = 0; i < cookieElements.length; i++) {
+        cookieElements[i].classList.add("cookie-accepted");
+    }
+}
 
+
+if (readCookie('cookie-notice-accepted') == 'true') {
+    enableCookies();
 } else {
     document.getElementById('cookie-notice').style.display = 'flex';
 }

@@ -421,7 +421,7 @@ body.has-theme-bar #page { top: 60px; }
 
 .cookie-allow { color: #030954; border-color: transparent; background-color: #ff9803; }
 
-.cookie-allow:hover, .cookie-allow:focus { background-color: #ffbe29; }
+.cookie-allow:hover, .cookie-allow:focus { background-color: #ffbe29; color: #03097a; }
 
 .cookie-deny { color: #ffffff; background-color: transparent; border-color: transparent; }
 
@@ -432,5 +432,19 @@ body.has-theme-bar #page { top: 60px; }
 .cookie-revoke:hover { bottom: 0; text-decoration: underline; }
 
 @media only screen and (max-width: 800px) { .cookie-revoke { bottom: 0; } #cookie-notice { flex-direction: column; } }
+
+.youtube-embed { position: relative; }
+
+.youtube-embed__notice { width: 100%; }
+
+.youtube-embed__notice img { z-index: 1; min-width: 100%; min-height: 100%; opacity: 0.4; }
+
+.youtube-embed__notice p { color: #030954; background-color: #ff9803; opacity: 0.8; font-size: 1.5em; position: absolute; top: 50%; text-align: center; min-width: 100%; z-index: 2; }
+
+.youtube-embed__iframe { display: none; width: 100%; height: 100%; }
+
+.cookie-accepted .youtube-embed__notice { display: none; }
+
+.cookie-accepted .youtube-embed__iframe { display: block; }
 
 /*# sourceMappingURL=main.css.map */
