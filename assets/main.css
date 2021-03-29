@@ -447,4 +447,8 @@ body.has-theme-bar #page { top: 60px; }
 
 .cookie-accepted .youtube-embed__iframe { display: block; }
 
+.announcement { background-color: rgba(3, 9, 84, 0.2); border-radius: 1em; padding: 0.5em; }
+
+.announcement time { font-weight: bold; }
+
 /*# sourceMappingURL=main.css.map */
